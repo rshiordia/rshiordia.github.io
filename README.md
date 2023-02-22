@@ -8,4 +8,4 @@ Soy Coordinador de Innovación de la Facultad de Arquitectura de la Universidad 
 
 Esta página es la entrada a mis repositorios y diferentes proyectos. 
 
-[Workshop PUEA 2023](rshiordia.github.io/DisCompFabDig/site/site/index.html)
+[Workshop PUEA 2023](rshiordia.github.io/DisCompFabDig/)
