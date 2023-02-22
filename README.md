@@ -8,6 +8,5 @@ Soy Coordinador de Innovación de la Facultad de Arquitectura de la Universidad 
 
 Esta página es la entrada a mis repositorios y diferentes proyectos.
 
-[Video Workshop PUEA 2023](https://redanahuac.zoom.us/j/9185848859)
 [Página Workshop PUEA 2023](https://www.rshiordia.github.io/DisCompFabDig/)
 
